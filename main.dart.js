@@ -45901,7 +45901,7 @@ p=q.gq()
 q=q.a
 q===$&&A.a()
 q=A.d9(B.bk,p/q.a)
-j=A.aN(k,A.ae("What is this bro the video looks like 340p, and the image looks like a copy from 1964, do better or else you dont get shit.",k,k,k,B.aE,k,k),k,new A.aK(k,k,q,r,k,k,B.p),k,k,new A.W(j,j,j,j),k)
+j=A.aN(k,A.ae("Despite showcasing mouthwatering dishes, leaving viewers hungry for more than just visuals.",k,k,k,B.aE,k,k),k,new A.aK(k,k,q,r,k,k,B.p),k,k,new A.W(j,j,j,j),k)
 r=$.i()
 q=r.gq()
 r=r.a
